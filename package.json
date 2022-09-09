@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "knex": "^2.3.0",
+    "pg": "^8.8.0"
+  },
+  "scripts": {
+    "start": "nodemon ./source/app.js"
+  },
+  "name": "pg_practice",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
